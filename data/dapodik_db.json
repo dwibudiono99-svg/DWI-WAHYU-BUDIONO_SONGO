@@ -1,0 +1,25 @@
+{
+  "sekolah": {
+    "npsn": "20532189",
+    "namaSekolah": "SMAN 9 SURABAYA",
+    "bentukPendidikan": "SMA",
+    "statusSekolah": "Negeri",
+    "alamat": "Jl. Wijaya Kusuma No. 48, Ketabang, Kec. Genteng",
+    "kota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "kodePos": "60272",
+    "akreditasi": "A (Unggul)",
+    "kurikulum": "Kurikulum Merdeka",
+    "semesterAktif": "2025/2026 Genap",
+    "kepalaSekolah": "Drs. H. M. Sulaiman, M.Pd.",
+    "nipKepalaSekolah": "196705121992031005",
+    "lastSyncTime": null,
+    "apiEndpoint": "https://dapodik.kemdikbud.go.id/rest/v1.4",
+    "apiToken": "DPK-SEC-7749-X9-2026",
+    "autoSyncEnabled": true,
+    "autoSyncIntervalSec": 60
+  },
+  "gtk": [],
+  "siswa": [],
+  "syncLogs": []
+}

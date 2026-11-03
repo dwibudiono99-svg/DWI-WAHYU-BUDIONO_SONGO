@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIM Dapodik \u0026 Kepegawaian Terpadu",
+  "description": "Sistem Informasi Manajemen Database Dapodik dan Kepegawaian Sekolah dengan integrasi API sinkronisasi data Guru (GTK) dan Siswa secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
